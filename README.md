@@ -53,7 +53,6 @@
 <p align="left">
   <!-- Areas of Exploration -->
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Open_Source-228B22?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
 </p>
