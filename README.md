@@ -2,14 +2,12 @@
 
 # Hi there! I'm Yash 👋
 
-<!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+Personal+Projects;Exploring+AI+%26+Rust;Learning+C%2B%2B%2C+Python%2C+DSA;Game+Developer+%26+Creative+Coder" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
-[![Discord](https://img.shields.io/badge/Discord-KLEDXYASH%233204-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-KLEDXYASH%233204-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
 ![Profile Views](https://komarev.com/ghpvc/?username=YashShingan&label=Profile%20Views&color=007ec6&style=for-the-badge)
 
 ---
